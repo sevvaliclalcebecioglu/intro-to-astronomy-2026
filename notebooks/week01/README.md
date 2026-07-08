@@ -80,12 +80,6 @@ Learning the Basics of the Terminal | Assignment 1
 
 https://medium.com/@iclal.cb/learning-the-basics-of-the-terminal-assignment-1-4b63fabb90f9
 
-### Assignment 2
-
-Learning the Unix Shell | Assignment 2
-
-https://medium.com/...
-
 ### Assignment 4
 
 Getting Started with Git | Assignment 4
