@@ -53,14 +53,14 @@ intro-to-astronomy-2026/
 │   │       │   │   ├── hello.txt
 │   │       │   │   └── hello_copy.txt
 │   │       │   ├── images/
-│   │       │   └── links.txt
+│   │       │   └── README.md
 │   │       ├── assignment_02_unix_shell/
-│   │       │   └── links.txt
+│   │       │   └── README.md
 │   │       ├── assignment_03_github/
-│   │       │   └── links.txt
+│   │       │   └── README.md
 │   │       └── assignment_04_git/
 │   │           ├── images/
-│   │           └── links.txt
+│   │           └── README.md
 │   ├── week02/
 │   ├── week03/
 │   ├── week04/
