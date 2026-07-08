@@ -37,22 +37,39 @@ Rather than simply storing coursework, this repository reflects my progress in c
 ## 📂 Repository Structure
 
 ```text
-intro-to-astronomy-2026
+intro-to-astronomy-2026/
 │
 ├── assets/
 │   └── banner.png
 │
 ├── notebooks/
 │   ├── week01/
+│   │   └── assignments/
+│   │       ├── assignment_01_terminal_practice/
+│   │       │   ├── foo_dir/
+│   │       │   │   ├── foo_sub_dir/
+│   │       │   │   │   └── hello_copy.txt
+│   │       │   │   ├── hello.txt
+│   │       │   │   └── hello_copy.txt
+│   │       │   ├── images/
+│   │       │   └── links.txt
+│   │       ├── assignment_02_unix_shell/
+│   │       │   └── links.txt
+│   │       ├── assignment_03_github/
+│   │       │   └── links.txt
+│   │       └── assignment_04_git/
+│   │           ├── images/
+│   │           └── links.txt
 │   ├── week02/
 │   ├── week03/
-│   └── week04/
-│   └── week05/
+│   ├── week04/
+│   ├── week05/
 │   └── week06/
 │
 ├── datasets/
 │
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ---
