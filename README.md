@@ -44,6 +44,7 @@ intro-to-astronomy-2026/
 │
 ├── notebooks/
 │   ├── week01/
+│   │   ├── README.md   
 │   │   └── assignments/
 │   │       ├── assignment_01_terminal_practice/
 │   │       │   ├── foo_dir/
